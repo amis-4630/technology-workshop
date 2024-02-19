@@ -1,8 +1,8 @@
 let firstName = "Brutus";
 let lastName = "Buckeye";
 
-//old way
+// using concatenation 
 console.log("Hello, " + firstName + " " + lastName);
 
-//new way with template strings 
+// using template strings
 console.log(`Hello, ${firstName} ${lastName}`);
